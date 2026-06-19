@@ -29,7 +29,7 @@
 </div>
 
 ###
-# 👋 Hola, soy Alejandro
+# Soy Alejandro
 
 ### Emprendedor, creador y apasionado por la tecnología
 
